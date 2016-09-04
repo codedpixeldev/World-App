@@ -1,0 +1,20 @@
+.navbar-brand {
+    padding: 5px 15px;
+}
+
+.app-heading {
+    float: left;
+    margin-top: 10px;
+    margin-left: 15px;
+    font-weight:bold;
+    font-family:Open sans, sans-serif;
+}
+
+.app-logo {
+    max-height:40px;
+    float:left;
+}
+
+.world-app-content {
+    padding:20px;
+}
